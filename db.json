@@ -19,7 +19,7 @@
         "Price": 800000
       },
       {
-        "id": 1,
+        "id": 3,
         "brand": "Tata",
         "type":"Manual",
         "year": 2019,
@@ -28,16 +28,16 @@
         "Price": 500000
       },
       {
-        "id": 2,
+        "id": 4,
         "brand": "Tata",
-              "type":"AMT",
+        "type":"AMT",
         "year": 2017,
         "kms": 8000,
         "Description": "Tata Nexon with all original documents",
         "Price": 800000
       },{
-        "id": 1,
-        "brand": "Tata",
+        "id": 5,
+        "brand": "Maruti",
         "type":"Manual",
         "year": 2019,
         "kms": 10000,
@@ -45,15 +45,15 @@
         "Price": 500000
       },
       {
-        "id": 2,
-        "brand": "Tata",
-              "type":"AMT",
+        "id": 6,
+        "brand": "Maruti",
+        "type":"AMT",
         "year": 2017,
         "kms": 8000,
         "Description": "Tata Nexon with all original documents",
         "Price": 800000
       },{
-        "id": 1,
+        "id": 7,
         "brand": "Tata",
         "type":"Manual",
         "year": 2019,
@@ -62,16 +62,16 @@
         "Price": 500000
       },
       {
-        "id": 2,
+        "id": 8,
         "brand": "Tata",
-              "type":"AMT",
+        "type":"AMT",
         "year": 2017,
         "kms": 8000,
         "Description": "Tata Nexon with all original documents",
         "Price": 800000
       },{
-        "id": 1,
-        "brand": "Tata",
+        "id": 9,
+        "brand": "Maruti",
         "type":"Manual",
         "year": 2019,
         "kms": 10000,
@@ -79,9 +79,9 @@
         "Price": 500000
       },
       {
-        "id": 2,
-        "brand": "Tata",
-              "type":"AMT",
+        "id": 10,
+        "brand": "Maruti",
+        "type":"AMT",
         "year": 2017,
         "kms": 8000,
         "Description": "Tata Nexon with all original documents",
@@ -89,6 +89,52 @@
       }
     ],
     "wishlist":[
+      {
+        "id": 7,
+        "brand": "Tata",
+        "type":"Manual",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 500000
+      },
+      {
+        "id": 8,
+        "brand": "Tata",
+        "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 800000
+      },{
+        "id": 9,
+        "brand": "Maruti",
+        "type":"Manual",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 500000
+      },
+      {
+        "id": 10,
+        "brand": "Maruti",
+        "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 800000
+      }
+    ],
+
+    "signupData":[
+
+    ],
+
+    "loginData":[
+
+    ],
+
+    "tasks":[
 
     ]
   }
