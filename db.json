@@ -139,6 +139,19 @@
     ],
   
     "dogs":[
-      
+      {
+        "id": 1,
+        "name": "Cherry",
+        "age": 2,
+        "place": "Visakhapatnam",
+        "gender": "Male"
+      },
+      {
+        "id": 1,
+        "name": "Tommy",
+        "age": 3,
+        "place": "Banglore",
+        "gender": "Female"
+      }
     ]
   }
