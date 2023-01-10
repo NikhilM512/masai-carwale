@@ -127,27 +127,75 @@
     ],
 
     "signupData":[
-
+      {
+        "username": "Masai",
+        "email": "masai@gmail.com",
+        "password": "masai0139",
+        "id": 1
+      }
     ],
 
     "loginData":[
-
+      {
+        "username": "Masai",
+        "password": "masai0139",
+        "id": 1
+      }
     ],
 
     "tasks":[
-
+      {
+        "task": "Attend Mocks",
+        "id": 1
+      },
+      {
+        "task": "Attend Interviews",
+        "id": 2
+      },
+      {
+        "task": "Revison",
+        "id": 3
+      }
     ],
   
     "dogs":[
       {
         "id": 1,
-        "name": "Cherry",
+        "name": "Dolly",
         "age": 2,
         "place": "Visakhapatnam",
         "gender": "Male"
       },
       {
-        "id": 1,
+        "id": 2,
+        "name": "Tommy",
+        "age": 3,
+        "place": "Banglore",
+        "gender": "Female"
+      },
+      {
+        "id": 3,
+        "name": "Ravi",
+        "age": 2,
+        "place": "Visakhapatnam",
+        "gender": "Male"
+      },
+      {
+        "id": 4,
+        "name": "Sweety",
+        "age": 3,
+        "place": "Banglore",
+        "gender": "Female"
+      },
+      {
+        "id": 5,
+        "name": "Titu",
+        "age": 2,
+        "place": "Visakhapatnam",
+        "gender": "Male"
+      },
+      {
+        "id": 6,
         "name": "Tommy",
         "age": 3,
         "place": "Banglore",
