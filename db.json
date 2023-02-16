@@ -24,12 +24,26 @@
   "users": [
     {
       "id": 1,
-      "Username": "coreyschafer",
-      "Avtar": "coreyschafer",
+      "username": "coreyschafer",
       "Email": "Be Present",
       "Password": "$abcdef"
     }
   ],
+  "stocks":[
+    {
+      "id": 1,
+      "username": "coreyschafer",
+      "company_logo": "https://www.jetspot.in/wp-content/uploads/2018/03/reliance-logo.jpg",
+      "company_name": "Reliance Industries",
+      "company_type": "Oil",
+      "stock_exchange": "BSE",
+      "total_shares": 20000,
+      "cost_per_share": 2132,
+      "price_action": 4
+    }
+
+  ],
+
     "cars": [
       {
         "id": 1,
